@@ -8,7 +8,7 @@
 // 2 - умножить
 import java.util.Scanner;
 
-public class Task3 {
+public class homework1_3 {
     public static void main(String[] args) {
         Scanner iScanner = new Scanner(System.in);
         System.out.printf("Введите первое число: ");

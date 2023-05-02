@@ -1,6 +1,6 @@
 // Вывести все простые числа от 1 до 1000
 
-public class Task2 {
+public class homework1_2 {
     public static void main(String[] args) {
         System.out.print("2 ");
         for (int i = 2; i <= 1000; i++) {
